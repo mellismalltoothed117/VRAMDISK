@@ -2,7 +2,7 @@
 
 VRAMDISKは、GPUのVRAMを独自のファイルシステム経由でWindowsにマウントできるアプリです。
 
-<img width="928" height="472" alt="image" src="https://github.com/user-attachments/assets/677a0817-f60f-4a86-bed0-a275abfb7a69" />
+<img width="928" height="472" alt="image" src="https://github.com/user-attachments/assets/42a44f7e-3a8c-4ab4-a85b-dad7a1769782" />
 
 VRAM上にはオブジェクトストレージのような構造でデータを保存しているため、GPUの高い並列計算性能を活用してGPU上でそのままファイルを圧縮したり、ハッシュ値を求めたり、エンコードしたりすることができます。
 
