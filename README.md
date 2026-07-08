@@ -53,4 +53,4 @@ npm install            # 初回のみ（@tauri-apps/cliを取得）
 このプログラムは The MIT License の下で公開されています。
 
 © 2026 ActiveTK.
-https://github.com/ActiveTK/gff/blob/master/LICENSE
+https://github.com/ActiveTK/VRAMDISK/blob/main/LICENSE
